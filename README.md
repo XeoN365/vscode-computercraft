@@ -13,14 +13,7 @@ This extension provides autocomplete for ComputerCraft 1.8.
 
 
 ## Todo
-
-#### Features
-- Better support for functions that take tables as argument
-- Function signature hints (**registerSignatureHelpProvider**)
-
-#### Technical tasks
-- Instead of storing inherited properties in the data file, they should maybe get looked up during runtime
-- Unit tests
+ - Add support for turtles
 
 ## Acknowledgments
-This extension is based on [Simon Vizzini](https://github.com/simonvizzini) extension [vscode-factorio-lua-api-autocomplete](https://github.com/simonvizzini/vscode-factorio-lua-api-autocomplete)
+This extension is based on [MCJack123](https://github.com/MCJack123) extension [vscode-computercraft](https://github.com/MCJack123/vscode-computercraft)
